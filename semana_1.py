@@ -14,7 +14,7 @@ def get_user_choice():
 
 # Function to get computer's random choice
 def get_computer_choice():
-    options = ['rock', 'paper', 'scissor']
+    options = ('rock', 'paper', 'scissor')
     return random.choice(options)
 
 # Function to determine the result
