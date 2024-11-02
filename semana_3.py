@@ -1,10 +1,6 @@
 # a) Utilize este csv para obter uma representação clara dos dados,
 # por meio de gráficos ou outras funcionalidades do Pandas.
 
-# b) Representar, por meio do uso das classes, algo do dia-a-dia de vocês,
-# como a Padaria feita anteriormente.
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
